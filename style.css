@@ -9,3 +9,115 @@ template: bb-theme
 */
 
 /* Add your custom styles here... */ 
+
+@import url("https://use.typekit.net/jmb2btw.css");
+
+body, p, h1, h2, h3, h4, h5, ul, li {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+	font-weight:400;
+}
+
+
+#menu-homepage-menu a {
+  font-family: "lft-etica", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+	font-weight: 600;
+}
+
+h1 {
+	  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+	font-weight: 300 !important;
+	line-height: 1.2;
+}
+
+h2 {
+	font-weight: 300 !important;
+	font-size: 35px;
+	
+}
+
+.fl-accordion-item {
+  border: none !important;
+	border-radius: .55rem;
+box-shadow:
+  0 0 6px 0 rgba(0,0,0,0.20);
+}
+
+.rounded {
+		border-radius: .55rem !important;
+}
+
+.shadow {
+	box-shadow:
+  0 0 10px 0 rgba(0,0,0,0.20);
+}
+
+a.button, #simpay-231-payment-button, .simpay-payment-btn {
+	display: block;
+	margin: 1em auto;
+	width: 100%;
+	font-size: 21px;
+	line-height: 1.65;
+	border-radius:5px;
+	background-color:#7679f7;
+	border: 1px solid #7679f7;
+	font-weight: 600;
+	color: #FFF;
+	padding: .5em;
+}
+
+ol li {
+	margin:1em 0;
+}
+
+blockquote {
+	border-left: 3px solid #a4bcda;
+	padding: .25em 1em;
+	color: #374250;
+}
+
+blockquote strong {
+	display: block;
+	margin: .25em 0 0;
+	color: #515d6c;
+	font-family: "lft-etica", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+	font-weight: 600;
+}
+
+blockquote .testimonial-amount {
+	background-color: #eee;
+	display: inline-block;
+	padding: .125em .5em;
+	margin: 0 .35em;
+	border-radius: 5px;
+	color: #515d6c;
+	font-size: 80%;
+	vertical-align: 3px;
+}
+
+a.fl-button, a.button, #simpay-231-payment-button, .simpay-payment-btn {
+	box-shadow: 0 3px 0 #6262FF;
+}
+
+a.fl-button span, a.button, #simpay-231-payment-button, .simpay-payment-btn  {
+	font-weight: 600;
+	font-family: "lft-etica", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+h3 {
+	font-family: "lft-etica", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+	font-weight: 600;
+	font-size: 21px;
+}
+
+ul li {
+	margin: 0 0 .5em;
+}
+
+.fl-form-success-message {
+	color: #fff;
+	
+}
+
+a.no-underline:hover {
+	text-decoration: none;
+}
