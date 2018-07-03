@@ -31,7 +31,7 @@ body, p, h1, h2, h3, h4, h5, ul, li {
 	color: #000;
 }
 
-p {
+p, .fl-rich-text p {
 	font-size: 19px;
 	line-height: 1.55;
 	color: #000;
