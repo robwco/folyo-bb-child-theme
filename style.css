@@ -14,7 +14,9 @@ template: bb-theme
 
 html, body {
 	background-color: #FFF;
-	
+	font-size: 19px;
+	line-height: 1.55;
+	color: #444;
 }
 
 a {
@@ -28,13 +30,13 @@ a:hover {
 body, p, h1, h2, h3, h4, h5, ul, li {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif !important;
 	font-weight: 400;
-	color: #000;
+	color: #444;
 }
 
 p, .fl-rich-text p {
 	font-size: 19px;
 	line-height: 1.55;
-	color: #000;
+	color: #444;
 }
 
 h1, h2, h3, h4, h5 {
