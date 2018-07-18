@@ -27,7 +27,7 @@ a:hover {
 
 body, p, h1, h2, h3, h4, h5, ul, li {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif !important;
-	font-weight:400;
+	font-weight: 400;
 	color: #000;
 }
 
@@ -37,16 +37,13 @@ p, .fl-rich-text p {
 	color: #000;
 }
 
-h1 {
-	  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+h1, h2, h3, h4, h5 {
 	font-weight: 900 !important;
 	line-height: 1.2;
 }
 
 h2 {
-	font-weight: 900 !important;
-	font-size: 35px;
-	
+	font-size: 35px;	
 }
 
 .fl-accordion-item {
